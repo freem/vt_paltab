@@ -22,7 +22,7 @@ that is intended to match real hardware.
 `vt32pal_normal outfile` or `vt32pal_bluecastremoval outfile`, depending on version.
 
 ## vt369pal
-`vt369` generates the RGB555 palette used on VT369 machines.
+`vt369pal` generates the RGB555 palette used on VT369 machines.
 
 ### Usage
 `vt369pal outfile`
